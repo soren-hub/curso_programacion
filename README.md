@@ -43,3 +43,19 @@ El curso tiene una duración de 10 semanas, con una carga horaria estimada de 4 
 
 La evaluación del curso se realizará mediante tareas y proyectos prácticos
   
+
+notas:
+objetivo desde el que enseña 
+
+si quiero mostralo a alumnos hay que cambiar el objetivo
+- redactar desde el punto de vista del alumno
+
+¿como se evalua los objetivos con verbos ambiguos(enseñar)?
+
+dejar claro lo que el profe espera de cada objetivo.
+
+hacer rubrica del curso completo 
+
+
+evaluar no es igual a calificar, calificar es poner una nota 
+evaluar puede ser porcentaje y la nota es el resultado de la evaluacion 
