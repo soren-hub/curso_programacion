@@ -2,12 +2,13 @@
 
 1. Introducción a la programación en python
 
-    * Introducción a la sintaxis de python
+    * Introducción a la sintaxisde python
     * Variables y tipos de datos
     * Operadores y expresiones
     * Entrada y salida de datos
     * Estructuras de control de flujo (condicionales y bucles)
     * Programación orientada a objetos en python
+
 
 2. Introducción a la programación orientada a objetos
     * Definición de clases y objetos
@@ -35,6 +36,13 @@
 
 
 # Programa del curso de nivel intermedio
+
+0. Herramientas externas 
+    * Editores de código como Visual Studio Code.
+    * Terminal y línea de comandos en diversos sistemas operativos.
+    * Jupyter Notebooks (si decides entrar a data science).
+    * Git para control de versiones.
+    * Entornos virtuales con PIP.
 
 1. Repaso de conceptos básicos de python
 
