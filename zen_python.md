@@ -19,3 +19,7 @@
 * "Si la implementación es difícil de explicar, es una mala idea".
 * "Si la implementación es fácil de explicar, puede ser una buena idea".
 * "Los espacios de nombres son una gran idea: ¡hagamos más de eso!".
+
+zen de python
+english
+
