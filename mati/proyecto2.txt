@@ -1,0 +1,4 @@
+n = int(input('Coloca un valor'))
+numeros = list(range(n+1))
+suma = sum(numeros)
+print(suma)
