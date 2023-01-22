@@ -18,11 +18,13 @@ Este curso esta enfocado a otorgar tópicos necesarios tener un nivel medio de P
 * Presentar algunas de las principales aplicaciones del lenguaje de programación Python en diferentes campos.
 
 # Requerimientos
+
 * Conocimientos básicos de matemáticas y lógica de programación
 * Un ordenador con una versión reciente de Python instalada
 * Acceso a internet
 
 # Contenidos
+
 * Introducción a Python
 * Variables y tipos de datos
 * Operadores y expresiones
@@ -43,7 +45,20 @@ El curso tiene una duración de 10 semanas, con una carga horaria estimada de 4 
 
 La evaluación del curso se realizará mediante tareas y proyectos prácticos
   
+# Bibliografía
+Los siguientes links te mandarán a páginas web donde podrás poner a prueba tus habilidades con el lenguaje Python
 
+https://www.hackerrank.com
+https://codewars.com
+http://codeforces.com/
+https://coderbyte.com/
+https://www.codingame.com/
+https://www.codechef.com/
+https://www.topcoder.com/challenges/
+https://pywombat.com
+
+
+-----------------------------------
 notas:
 objetivo desde el que enseña 
 
